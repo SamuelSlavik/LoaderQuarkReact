@@ -52,9 +52,9 @@ export default AnyComponent
 
 
 # DOCS
-Full docs at [https://www.quarksjs.com/library/loader-quark/getting-started](https://www.quarksjs.com/library/loader-quark/getting-started).
+Full docs at [https://www.quarksjs.com/library/loader-quark-react/getting-started](https://www.quarksjs.com/library/loader-quark-react/getting-started).
 
-Source code at [https://github.com/SamuelSlavik/LoaderQuark](https://github.com/SamuelSlavik/LoaderQuark)
+Source code at [https://github.com/SamuelSlavik/LoaderQuarkReact](https://github.com/SamuelSlavik/LoaderQuarkReact)
 
 # SUPPORT
 Please support us by starring the repository or donate at [https://www.quarksjs.com/donate](https://www.quarksjs.com/donate) to help us maintain the project and cover hosting expenses.
