@@ -2,17 +2,23 @@
 
 This quark is a simple loader plugin with adaptation for React.
 
+<br/>
+
 ## Installation
 
 ```sh
 npm install loader-quark-react --save
 ```
 
+<br/>
+
 ## Setup
 AnyComponent.jsx
 ```js
 import {Loader} from "loader-quark-react"
 ```
+
+<br/>
 
 ## Basic Usage
 AnyComponent.jsx
@@ -50,11 +56,12 @@ const AnyComponent = () => {
 export default AnyComponent
 ```
 
+<br/>
 
-# DOCS
+## DOCS
 Full docs at [https://www.quarksjs.com/library/loader-quark-react/getting-started](https://www.quarksjs.com/library/loader-quark-react/getting-started).
 
 Source code at [https://github.com/SamuelSlavik/LoaderQuarkReact](https://github.com/SamuelSlavik/LoaderQuarkReact)
 
-# SUPPORT
+## SUPPORT
 Please support us by starring the repository or donate at [https://www.quarksjs.com/donate](https://www.quarksjs.com/donate) to help us maintain the project and cover hosting expenses.
